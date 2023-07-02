@@ -1,4 +1,6 @@
 feat: create cv.md file
+feat: update cv.md file
+
 Пономарева Алина Викторовна
 
 Способы связи:
