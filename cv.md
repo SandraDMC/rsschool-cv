@@ -10,6 +10,8 @@ Communication methods:
 
 mihrimah124@gmail.com – email adress
 
+https://SandraDMC.github.io/rsschool-cv - github 
+
 Work expirience:
 
 JSC Integral
