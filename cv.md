@@ -2,57 +2,59 @@ init: start cv.md file
 feat: create cv.md file
 feat: update cv.md file
 
-Пономарева Алина Викторовна
+Ponomareva Alina Viktarovna
 
-Способы связи:
+Communication methods:
 
-+375447410645 – контактный телефон
++375447410645 – telephone number
 
-mihrimah124@gmail.com – адрес электронной почты
+mihrimah124@gmail.com – email adress
 
-Опыт работы:
+Work expirience:
 
-ОАО Интеграл
+JSC Integral
 
-Оператор диффузионных процессов
+Operator of diffusion processes
 
-- Ведение процессов диффузии примесей в кремний и создание защитных покрытий химико-термическим методом.
+- Conducting the processes of diffusion of impurities into silicon and the creation of protective coatings by chemical-thermal method.
   
-РУП ЦЦР
+RUI DDC:
 
-Специалист службы поддержки пользователей
+User Support Specialist
 
-- Принятие входящих звонков, оказание консультаций по функционалу программного продукта. Регистрация аккаунтов в системе, ответ в системе авторизованным пользователям.
+- Receiving incoming calls, providing consultations on the functionality of the software product. Registration of accounts in the system, response in the system to authorized users.
   
-Среднее специальное образование - 2018
+User Support Specialist
 
-Высший государственный колледж связи, Минск
+- Receiving incoming calls, providing consultations on the functionality of the software product. Registration of accounts in the system, response in the system to authorized users.Secondary special education - 2018
 
-Инжиниринга и технологий связи, Тестирование ПО
+Higher State College of Communications, Minsk
 
-Высшее образование - 2023
+Engineering and communication technologies, Software testing
 
-Белорусская государственная академия связи, Минск
+Higher education - 2023
 
-Заочного и дистанционного образования, Сопровождение ПО
+Belarusian State Academy of Communications, Minsk
 
-Навыки:
+Correspondence and distance education, Software support
 
-•	Проверка ПО на соответствие критериям качества
+Skills:
 
-•	Знание принципов, методов тестирования, техник тест-дизайна
+• Software verification for compliance with quality criteria
 
-•	Работа с требованиями к ПО
+• Knowledge of principles, testing methods, test design techniques
 
-•	Исследование и выявление критериев продукта
+• Work with software requirements
 
-•	Создание тестовой документации (тест-кейсы, чек-листы)
+• Research and identification of product criteria
 
-•	Знание основ и принципов тестирования веб- и мобильных приложений
+• Creation of test documentation (test cases, checklists)
 
-•	UI/UX тестирование
+• Knowledge of the basics and principles of testing web and mobile applications
 
-•	Работа c HTML, CSS, JavaScript
+• UI/UX testing
+
+• Working with HTML, CSS, JavaScript
 
 •	Уверенные знания пакета MS Office (Microsoft Word, Access, Excel, PowerPoint)
 
