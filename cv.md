@@ -1,9 +1,10 @@
 rsschool-cv
-Elvin Yekayev
+
+Ponomareva Alina
 My Contact Info
-Address: A.Rahimov st. Baku, Azerbaijan
-Phone: +994 706371716
-E-mail: elvinyeka@gmail.com
+Address: Minsk, Belarus
+Phone: +375447410101
+E-mail: miha@gmail.com
 Summary
 I'm 23. I live in Minsk. I am fond of creating maps for the game Disciples 2. I want to become a real programmer and grow in this direction.
 Skills
